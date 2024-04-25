@@ -80,4 +80,4 @@ def update_graph(selected_countries, y_axis, bubble_x_axis, bubble_y_axis, bubbl
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server()
